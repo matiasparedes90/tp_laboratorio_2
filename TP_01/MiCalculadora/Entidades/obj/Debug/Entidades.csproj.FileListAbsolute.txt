@@ -1,0 +1,6 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
