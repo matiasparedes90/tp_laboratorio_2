@@ -21,3 +21,16 @@ E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\M
 E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
 E:\Utn\Laboratorio y Programacion II\Programacion\2019\TP\TP_01\Version Prueba\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Tute\Documents\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources

@@ -40,7 +40,10 @@ namespace Entidades
                 case "*":
                     return num1 * num2;
                 default:
-                    return num1 / num2;
+                    if (double.IsInfinity(num1 / num2))
+                        return double.MinValue;
+                    else
+                        return num1 / num2;
 
             }
 

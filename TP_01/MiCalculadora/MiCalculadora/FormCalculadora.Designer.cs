@@ -1,7 +1,7 @@
 ﻿using Entidades;
 namespace MiCalculadora
 {
-    partial class Form1
+    partial class FormCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -42,58 +42,58 @@ namespace MiCalculadora
             // 
             // txtNumero1
             // 
-            this.txtNumero1.Location = new System.Drawing.Point(31, 42);
-            this.txtNumero1.Margin = new System.Windows.Forms.Padding(2);
+            this.txtNumero1.Location = new System.Drawing.Point(41, 52);
+            this.txtNumero1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(112, 20);
+            this.txtNumero1.Size = new System.Drawing.Size(148, 22);
             this.txtNumero1.TabIndex = 0;
             // 
             // txtNumero2
             // 
-            this.txtNumero2.Location = new System.Drawing.Point(225, 41);
-            this.txtNumero2.Margin = new System.Windows.Forms.Padding(2);
+            this.txtNumero2.Location = new System.Drawing.Point(300, 50);
+            this.txtNumero2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(112, 20);
-            this.txtNumero2.TabIndex = 1;
+            this.txtNumero2.Size = new System.Drawing.Size(148, 22);
+            this.txtNumero2.TabIndex = 2;
             // 
             // cmbOperador
             // 
             this.cmbOperador.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOperador.FormattingEnabled = true;
-            this.cmbOperador.Location = new System.Drawing.Point(164, 42);
-            this.cmbOperador.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbOperador.Location = new System.Drawing.Point(219, 52);
+            this.cmbOperador.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(46, 21);
-            this.cmbOperador.TabIndex = 2;
+            this.cmbOperador.Size = new System.Drawing.Size(60, 24);
+            this.cmbOperador.TabIndex = 1;
             // 
             // btnConvertirADecimal
             // 
-            this.btnConvertirADecimal.Location = new System.Drawing.Point(190, 107);
-            this.btnConvertirADecimal.Margin = new System.Windows.Forms.Padding(2);
+            this.btnConvertirADecimal.Location = new System.Drawing.Point(253, 132);
+            this.btnConvertirADecimal.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConvertirADecimal.Name = "btnConvertirADecimal";
-            this.btnConvertirADecimal.Size = new System.Drawing.Size(146, 24);
-            this.btnConvertirADecimal.TabIndex = 3;
+            this.btnConvertirADecimal.Size = new System.Drawing.Size(195, 30);
+            this.btnConvertirADecimal.TabIndex = 7;
             this.btnConvertirADecimal.Text = "Convertir a Decimal";
             this.btnConvertirADecimal.UseVisualStyleBackColor = true;
             this.btnConvertirADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // btnConvertirABinario
             // 
-            this.btnConvertirABinario.Location = new System.Drawing.Point(28, 107);
-            this.btnConvertirABinario.Margin = new System.Windows.Forms.Padding(2);
+            this.btnConvertirABinario.Location = new System.Drawing.Point(37, 132);
+            this.btnConvertirABinario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConvertirABinario.Name = "btnConvertirABinario";
-            this.btnConvertirABinario.Size = new System.Drawing.Size(146, 24);
-            this.btnConvertirABinario.TabIndex = 4;
+            this.btnConvertirABinario.Size = new System.Drawing.Size(195, 30);
+            this.btnConvertirABinario.TabIndex = 6;
             this.btnConvertirABinario.Text = "Convertir a Binario";
             this.btnConvertirABinario.UseVisualStyleBackColor = true;
             this.btnConvertirABinario.Click += new System.EventHandler(this.btnConvertirABinario_Click);
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(237, 76);
-            this.btnCerrar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnCerrar.Location = new System.Drawing.Point(316, 94);
+            this.btnCerrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(99, 24);
+            this.btnCerrar.Size = new System.Drawing.Size(132, 30);
             this.btnCerrar.TabIndex = 5;
             this.btnCerrar.Text = "Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
@@ -101,22 +101,22 @@ namespace MiCalculadora
             // 
             // btnOperar
             // 
-            this.btnOperar.Location = new System.Drawing.Point(28, 76);
-            this.btnOperar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnOperar.Location = new System.Drawing.Point(37, 94);
+            this.btnOperar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnOperar.Name = "btnOperar";
-            this.btnOperar.Size = new System.Drawing.Size(99, 24);
-            this.btnOperar.TabIndex = 6;
+            this.btnOperar.Size = new System.Drawing.Size(132, 30);
+            this.btnOperar.TabIndex = 3;
             this.btnOperar.Text = "Operar";
             this.btnOperar.UseVisualStyleBackColor = true;
             this.btnOperar.Click += new System.EventHandler(this.btnOperar_Click);
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(133, 76);
-            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLimpiar.Location = new System.Drawing.Point(177, 94);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(99, 24);
-            this.btnLimpiar.TabIndex = 7;
+            this.btnLimpiar.Size = new System.Drawing.Size(132, 30);
+            this.btnLimpiar.TabIndex = 4;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
@@ -125,18 +125,17 @@ namespace MiCalculadora
             // 
             this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(202, 7);
-            this.lblResultado.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblResultado.Location = new System.Drawing.Point(269, 9);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(0, 25);
+            this.lblResultado.Size = new System.Drawing.Size(0, 29);
             this.lblResultado.TabIndex = 8;
             // 
-            // Form1
+            // FormCalculadora
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(371, 142);
+            this.ClientSize = new System.Drawing.Size(495, 175);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnOperar);
@@ -146,10 +145,11 @@ namespace MiCalculadora
             this.Controls.Add(this.cmbOperador);
             this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.txtNumero1);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "FormCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Matias Paredes 2 C";
             this.Load += new System.EventHandler(this.Form1_Load);

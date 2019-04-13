@@ -28,7 +28,7 @@ namespace Entidades
 
         public Numero(string strNumero)
         {
-            double.TryParse(strNumero, out this.numero);
+            SetNumero = strNumero;
         }
 
         #endregion
@@ -152,17 +152,12 @@ namespace Entidades
 
         public static double operator /(Numero n1, Numero n2)
         {
-            if (n2.numero == 0)
-                return double.MinValue;
-            else
-                return (n1.numero / n2.numero);
+            return (n1.numero / n2.numero);
         }
 
         public static double operator +(Numero n1, Numero n2)
         {
-
             return (n1.numero + n2.numero);
-
         }
         #endregion
     }
