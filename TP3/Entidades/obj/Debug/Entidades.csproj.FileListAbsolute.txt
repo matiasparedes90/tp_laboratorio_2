@@ -1,0 +1,12 @@
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\bin\Debug\Entidades.dll
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\bin\Debug\Entidades.pdb
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\obj\Debug\Entidades.dll
+F:\Utn\2021\Trabajos practicos\TP3\TP04\Entidades\obj\Debug\Entidades.pdb
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\bin\Debug\Entidades.dll
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\bin\Debug\Entidades.pdb
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\obj\Debug\Entidades.dll
+F:\Utn\2021\Trabajos practicos\TP3\Entidades\obj\Debug\Entidades.pdb
