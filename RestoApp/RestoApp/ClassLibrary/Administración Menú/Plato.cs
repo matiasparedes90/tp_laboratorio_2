@@ -74,6 +74,18 @@ namespace ClassLibrary.Administración_Menú
                 return this.listProducto;
             }
         }
+
+        public Producto this[int index]
+        {
+            get
+            {
+                return this.listProducto[index];
+            }
+            set
+            {
+                this.listProducto[index] = value;
+            }
+        }
         public double Precio
         {
             set

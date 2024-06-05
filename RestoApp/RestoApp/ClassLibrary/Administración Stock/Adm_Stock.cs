@@ -32,6 +32,18 @@ namespace ClassLibrary.Administración_Stock
             }
         }
 
+        public Producto this[int index]
+        {
+            get
+            {
+                return this.listProductos[index];
+            }
+            set
+            {
+                this.listProductos[index] = value;
+            }
+        }
+
         public Dictionary<string, int> GetStock
         {
             get

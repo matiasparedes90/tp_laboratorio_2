@@ -11,8 +11,8 @@ namespace ClassLibrary.Registros_Consumos
         #endregion
 
         #region Constructor
-        public Delivery(int identificador, double consumo, string metodo, bool estado, Empleado asignado)
-            : base(identificador, consumo, metodo, estado)
+        public Delivery(int identificador, bool estado, Empleado asignado)
+            : base(identificador, estado)
         {
             this.asignado = asignado;
         }

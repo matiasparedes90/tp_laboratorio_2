@@ -14,11 +14,9 @@ namespace ClassLibrary.Registros_Consumos
         #endregion
 
         #region Constructor
-        public ConsumoMesa(int identificador, double consumo, string metodo, bool estado)
+        public ConsumoMesa(int identificador, bool estado)
         {
             this.nroIdentificador = identificador;
-            this.consumo = consumo;
-            this.metodoPago = metodo;
             this.estado = estado;
         }
         #endregion

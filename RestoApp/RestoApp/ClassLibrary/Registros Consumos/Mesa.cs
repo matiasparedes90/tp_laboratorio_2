@@ -12,8 +12,8 @@ namespace ClassLibrary.Registros_Consumos
         #endregion
 
         #region Constructor
-        public Mesa(int identificador, double consumo, string metodo, bool estado, Empleado asignado, int capacidad)
-            : base(identificador, consumo, metodo, estado)
+        public Mesa(int identificador, bool estado, Empleado asignado, int capacidad)
+            : base(identificador, estado)
         {
             this.asignado = asignado;
             this.capacidad = capacidad;
