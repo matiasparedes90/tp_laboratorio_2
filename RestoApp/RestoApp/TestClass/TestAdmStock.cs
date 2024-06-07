@@ -7,10 +7,13 @@ namespace TestClass
     public class TestAdmStock
     {
         [TestMethod]
-        public void Test_Producto()
+        public void Test_ComparacionSuma_Stock()
         {
-            Producto producto = new Producto("pepas", "Efectivo", "Bagley", "1112", "Av.Galleton 123", "10/5", 25, 800);
+            Producto papas1 = new Producto("papas", "Efectivo", "qwe1", "1112", "Av.Galleton 123", "10/5", 25, 800);
+            Producto papas2 = new Producto("papas", "Efectivo", "qwe1", "1112", "Av.Galleton 123", "10/5", 25, 800);
 
+
+            
         }
     }
 }

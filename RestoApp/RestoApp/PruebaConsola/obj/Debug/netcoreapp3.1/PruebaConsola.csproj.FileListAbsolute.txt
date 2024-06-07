@@ -1,0 +1,16 @@
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.exe
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.deps.json
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.json
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.dev.json
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.dll
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.pdb
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csprojAssemblyReference.cache
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfoInputs.cache
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfo.cs
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csproj.CoreCompileInputs.cache
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csproj.CopyComplete
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.dll
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.pdb
+F:\Utn\2024\Laboratorio de Computación II\TP 01\A presentar\RestoApp\RestoApp\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.genruntimeconfig.cache
